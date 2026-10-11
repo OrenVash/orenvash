@@ -37,9 +37,3 @@ Keeper of sacred silicon. Cleanser of libc heresy with static Go binaries. Tende
 ```
 *May your clock cycles run unthrottled and your data pipelines suffer neither bit-rot nor deadlock.*
 
-
-01001000 01100001 01101001 01101100 00100000 01110100 01101000 01100101 00100000 01001111 01101101 01101110 01101001 01110011 01110011 01101001 01100001 01101000
-
-
-*May your clock cycles run unthrottled and your data pipelines suffer neither bit-rot nor deadlock.*
-
